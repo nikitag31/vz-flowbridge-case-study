@@ -1,8 +1,6 @@
 # VZ Flowbridge — Case Study
 
-A conceptual, organization-level Gen AI platform that turns raw Jira/AYS requirements into VDS-matched prototypes and production React code for a multi-brand telecom enterprise.
-
-Prepared as part of a Senior UX/UI & Product Strategy recruitment process.
+An organization-level Gen AI platform that turns raw Jira/AYS requirements into VDS-matched prototypes and production React code for a multi-brand telecom enterprise.
 
 **[View the case study](./index.html)** — open `index.html` directly, or enable GitHub Pages on this repo for a live link.
 
